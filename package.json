@@ -1,0 +1,35 @@
+{
+  "name": "react-sortable-hoc-starter",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@firebase/app": "0.6.11",
+    "@firebase/auth": "0.14.9",
+    "@firebase/database": "0.6.11",
+    "@firebase/firestore": "1.16.4",
+    "array-move": "3.0.1",
+    "firebase": "7.20.0",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3",
+    "react-sortable-hoc": "1.11.0",
+    "rxfire": "3.13.5",
+    "rxjs": "6.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
